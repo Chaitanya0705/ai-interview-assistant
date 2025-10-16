@@ -29,7 +29,7 @@ Before running the app, make sure you have:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ChaitanyaPatil/ai-interview-assistant.git
+   git clone https://github.com/Chaitanya0705/ai-interview-assistant.git
    cd ai-interview-assistant
    ```
 
