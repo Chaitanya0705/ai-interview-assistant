@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automatic Answers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo-container">
+            <img class="logo" src="answers.png" alt="AI Interview Assistant Logo">
+        </div>
+        <h1>AI Interview Assistant</h1>
+    </header>
+
+    <div class="main-layout">
+        <aside class="sidebar">
+            <div class="api-section">
+                <input type="password" id="apiKeyInput" placeholder="🔑 Enter Gemini API Key" aria-label="Enter your Gemini API Key">
+                <button id="saveApiKey" aria-label="Save the entered API Key">💾 Save</button>
+                <button id="deleteApiKey" aria-label="Change or remove the saved API Key">🔄 Change/Remove</button>
+            </div>
+            <div class="control-section">
+                <button id="listenButton" aria-label="Start or stop listening for questions">
+                    🎤 Start Listening
+                    <div class="spinner"></div>
+                </button>
+                <button id="clearButton" aria-label="Clear all questions and answers">🗑️ Clear Text</button>
+            </div>
+            <div class="questions">
+                <h2>📝 Questions</h2>
+                <div id="questionsArea"></div>
+            </div>
+        </aside>
+
+        <main class="content">
+            <div class="answers">
+                <h2>💬 Answers</h2>
+                <div id="answersArea"></div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Update the modal structure -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-logo" src="" alt="Logo" style="display: none;">
+            <p id="modal-message" class="text-center"></p>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="/eel.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
