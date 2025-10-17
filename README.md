@@ -15,7 +15,7 @@ Master your interview skills with real-time AI feedback and voice interaction
 </div>
 
 <div align="center">
-  <img src="https://github.com/Chaitanya0705/ai-interview-assistant/blob/main/Screenshot%202025-10-17%20093941.png" alt="AI Interview Assistant Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://raw.githubusercontent.com/Chaitanya0705/ai-interview-assistant/main/docs/screenshots/main-interface.png" alt="AI Interview Assistant Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <p><em>AI Interview Assistant - Modern Interface with Real-time Voice Interaction</em></p>
 </div>
 
@@ -242,7 +242,7 @@ MIT License - Feel free to use, modify, and distribute
 **Chaitanya A. Patil**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya0705)
-[![LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/chaitanya-patil0705?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-patil0705)
 
 *Creator & Maintainer*
 
