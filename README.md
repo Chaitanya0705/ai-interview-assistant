@@ -242,7 +242,7 @@ MIT License - Feel free to use, modify, and distribute
 **Chaitanya A. Patil**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya0705)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/chaitanya-patil0705?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 *Creator & Maintainer*
 
